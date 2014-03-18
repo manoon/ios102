@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>96369283-2C31-4295-9EF1-F97EA2E43A7E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UITableViewController Challenge Solution.</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8F5171D6-7AE8-4190-8003-315891078FA8</key>
+		<string>https://github.com/manoon/ios102.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UITableViewController Challenge Solution./UITableViewController Challenge Solution..xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8F5171D6-7AE8-4190-8003-315891078FA8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/manoon/ios102.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8F5171D6-7AE8-4190-8003-315891078FA8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8F5171D6-7AE8-4190-8003-315891078FA8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios102</string>
+		</dict>
+	</array>
+</dict>
+</plist>
